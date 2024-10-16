@@ -1,0 +1,51 @@
+0:question:Is it a character?:None:1:2
+1:question:Is the character aligned with the Force?:0:3:4
+2:question:Is it a planet?:0:5:6
+3:question:Is the character a Jedi?:1:7:8
+4:question:Is the character a droid?:1:9:10
+5:question:Is the planet part of the original trilogy?:2:11:12
+6:question:Is it a type of spacecraft?:2:13:14
+7:question:Did this character appear in the original trilogy?:3:15:16
+8:question:Is this character a Sith Lord?:3:17:18
+9:question:Is this character R2-D2?:4:19:20
+10:question:Is this character part of the Rebel Alliance?:4:21:22
+11:question:Is this planet Tatooine?:5:23:24
+12:question:Is this planet Coruscant?:5:25:26
+13:question:Is it a fighter spacecraft?:6:27:28
+14:question:Is it a weapon?:6:29:30
+15:question:Is this character Luke Skywalker?:7:31:32
+16:question:Is this character Rey?:7:33:34
+17:question:Is this character Darth Vader?:8:35:36
+18:question:Is this character Count Dooku?:8:37:38
+19:answer:R2-D2:9:None:None
+20:answer:C-3PO:9:None:None
+21:question:Is this character Han Solo?:10:39:40
+22:question:Is this character Boba Fett?:10:41:42
+23:answer:Tatooine:11:None:None
+24:answer:Endor:11:None:None
+25:answer:Coruscant:12:None:None
+26:answer:Mustafar:12:None:None
+27:question:Is it the Millennium Falcon?:13:43:44
+28:question:Is it the Death Star?:13:45:46
+29:question:Is it a lightsaber?:14:47:48
+30:question:Is it the Force?:14:49:50
+31:answer:Luke Skywalker:15:None:None
+32:answer:Qui-Gon Jinn:15:None:None
+33:answer:Rey:16:None:None
+34:answer:Mace Windu:16:None:None
+35:answer:Darth Vader:17:None:None
+36:answer:Emperor Palpatine:17:None:None
+37:answer:Count Dooku:18:None:None
+38:answer:Asajj Ventress:18:None:None
+39:answer:Han Solo:21:None:None
+40:answer:Chewbacca:21:None:None
+41:answer:Boba Fett:22:None:None
+42:answer:Jango Fett:22:None:None
+43:answer:Millennium Falcon:27:None:None
+44:answer:X-Wing:27:None:None
+45:answer:Death Star:28:None:None
+46:answer:Star Destroyer:28:None:None
+47:answer:Lightsaber:29:None:None
+48:answer:Blaster:29:None:None
+49:answer:The Force:30:None:None
+50:answer:Holocron:30:None:None
